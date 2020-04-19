@@ -1,3 +1,6 @@
 .body{
  float:left;
 }
+.container{
+ .color{blue}
+}
